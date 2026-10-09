@@ -1,3 +1,5 @@
-langchain
-langchain-google-genai
-python-dotenv
+
+langchain==1.4.3
+langchain-google-genai==4.4.0
+python-dotenv==1.2.3
+rich==15.0.0
